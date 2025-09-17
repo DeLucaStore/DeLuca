@@ -37,7 +37,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 JokiGamePro. Semua Hak Dilindungi.</p>
+    <p>&copy; 2025 DeLuca. Semua Hak Dilindungi.</p>
   </footer>
   <script src="script.js"></script>
 </body>
